@@ -55,7 +55,5 @@ export class Register {
 
         });
   }
-    refresh() {
-        window.location.reload();
-    }
+
 }
