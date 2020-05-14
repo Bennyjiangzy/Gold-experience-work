@@ -1,4 +1,5 @@
---- 
+install: 
+  - "npm install typescript --save-dev"
 language: node_js
 node_js: 
   - stable
